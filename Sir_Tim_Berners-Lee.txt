@@ -1,0 +1,26 @@
+Tim Berners-Lee
+
+Citação:
+"A Web não apenas conecta máquinas, ela conecta pessoas"
+http://webfoundation.org/about/community/knight-2008-tbl-speech/
+
+
+Tim Berners-Lee inventou a World Wide Web em 1989. Fundou e dirige o World Wide Web Consortium (W3C) - o fórum para o desenvolvimento técnico da Web. Ele fundou a Web Foundation, cuja missão é garantir que a WWW sirva à humanidade, e co-fundou o Open Data Institute em Londres. Tim gasta muito tempo lutando pelos direitos tais como privacidade, liberdade e abertura da Web.
+
+Formado pela Universidade de Oxford, Tim Berners-Lee inventou a Web, enquanto no CERN, o Laboratório Europeu de Física de Partículas, em 1989. Ele escreveu o primeiro cliente web e servidor em 1990. Suas especificações de URIs, HTTP e HTML foram refinadas ao longo do crescimento da Web.
+
+Cargos:
+- Professor da Escola de Engenharia da 3Com
+- Professor do Departamento de Engenharia Elétrica e Ciência da Computação do MIT
+- Diretor do World Wide Web Consortium
+- Diretor do Web Foundation
+- Presidente do Open Data Institute de Londres
+
+Palestras no TED.com:
+
+1. The next web    http://www.ted.com/talks/tim_berners_lee_on_the_next_web
+
+2. The year open data went worldwide (2010)
+http://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide
+
+3. A Magna Carta for the web (2014) http://www.ted.com/talks/tim_berners_lee_a_magna_carta_for_the_web
